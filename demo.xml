@@ -14,5 +14,39 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
+        <product-list>
+            <i>
+                <price>999</price>
+                <discount>3.8</discount>
+                <img>http://i.oxm1.cc/uploads/git/wurui/img/2a9eqvnhaTj9xm5y8iRvbf3A14ul-750.jpg</img>
+                <title>菲律宾长滩岛7日半自助游·★双11秒杀价</title>
+                <tags>
+                    <i>
+                        爆款
+                    </i>
+                </tags>
+                <href>#sss</href>
+            </i>
+        </product-list>
+        <table-menu>
+            <i>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9g3oxs1Tj9w9cnxrRrpnlAhz2-1000.png</icon>
+                <title>千款特价</title>
+                <tag>我们来帮你省钱</tag>
+                <href></href>
+            </i>
+            <i>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9g3ox2sTj9w9con0Rs40xAer2-947.png</icon>
+                <title>海外精选</title>
+                <tag>超值3折起</tag>
+                <href></href>
+            </i>
+            <i>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9g3ow7rTj9w9cpi1RhdzpAg3l-1000.png</icon>
+                <title>畅游国内</title>
+                <tag>9元度周末</tag>
+                <href></href>
+            </i>
+        </table-menu>
     </data>
 </root>
